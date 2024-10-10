@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/sku11busters/http-front.svg?branch=master)](https://travis-ci.org/sku11busters/http-front)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-https://sku11busters.github.io/http-front-blue)](https://sku11busters.github.io/http-front)
